@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aryan-rtp&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Aryan-rtp&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <img align="right" alt="coding" width="220" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif">
