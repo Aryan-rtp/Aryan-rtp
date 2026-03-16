@@ -2,19 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Aryan+Raj+Pandey+👋;Backend+Developer+%7C+AI+Engineer;Building+Scalable+Systems+🚀">
 </h1>
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aryan-rtp&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### Hey there 👋
+<img align="right" alt="coding" width="220" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif">
 
-I’m **Aryan Raj Pandey**, a **B.Tech Computer Science (Artificial Intelligence) student at KIET Group of Institutions, Ghaziabad**.
+## 👨‍💻 About Me
 
-💻 Backend focused developer passionate about scalable systems and AI applications.
+I’m **Aryan Raj Pandey**, a **B.Tech Computer Science (Artificial Intelligence)** student at **KIET Group of Institutions, Ghaziabad**.
 
-⚡ Working with MERN stack, AI models and cloud infrastructure.
+🚀 Backend-focused developer passionate about **scalable systems & AI applications**
+
+⚡ Building products using **MERN stack, AI systems and cloud infrastructure**
+
+🧠 Interested in **Machine Learning, LLMs, Distributed Systems**
 
 ---
 
-# 🚀 Skills
+# 🚀 Tech Stack
 
 ### Backend
 Node.js • Express.js • REST APIs • JWT • Microservices
@@ -22,7 +28,7 @@ Node.js • Express.js • REST APIs • JWT • Microservices
 ### AI / ML
 Machine Learning • Deep Learning • RAG • Prompt Engineering • Vector Databases
 
-### Cloud & DevOps
+### Cloud / DevOps
 AWS • Docker • Kubernetes • Terraform • CI/CD
 
 ### Databases
@@ -33,7 +39,7 @@ Python • JavaScript • Java • C++
 
 ---
 
-# 🛠 Tools
+# 🛠 Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,python,js,java,cpp,docker,kubernetes,aws,terraform,git,github,react,tailwind,vscode,postman&perline=9" />
@@ -41,38 +47,62 @@ Python • JavaScript • Java • C++
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Aryan-rtp&theme=tokyonight&show_icons=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-rtp&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-rtp&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-rtp&layout=compact&theme=tokyonight)
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-rtp&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-rtp&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-rtp&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
 <div align="center">
-  <h2>🍃 My Contributions 🍃</h2>
 
-  <img alt="snake eating my contributions"
-  src="https://raw.githubusercontent.com/Aryan-rtp/Aryan-rtp/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Aryan-rtp/Aryan-rtp/output/github-contribution-grid-snake.svg"/>
 
-  <br/><br/>
 </div>
 
+---
 
-<span>
-Connect with me on any of these platforms :
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-</span>
+# 🤝 Connect With Me
 
+<p align="center">
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="32">](https://linkedin.com/in/rtp-aryan) | [<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="32">](https://github.com/Aryan-rtp) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" height="32">](mailto:rtp.aryan@gmail.com) |://github.com/Aryan-rtp">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<a href="https://linkedin.com/in/rtp-aryan">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/Aryan-rtp">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 <a href="mailto:rtp.aryan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/Aryan-rtp">Aryan Raj Pandey</a>
 </p>
